@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Tobi+%F0%9F%91%8B)
 
+<br>
+
 ---
 
 # 💻 Tech Stack
@@ -18,17 +20,23 @@
   <img src="https://cdn.simpleicons.org/clipstudio/2955A6" height="40" alt="Clip Studio Paint" />
 </p>
 
+<br>
+
 ---
 
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Tobi6901&show_icons=true&theme=radical)
 
+<br>
+
 ---
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Tobi6901&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<br>
 
 ---
 
