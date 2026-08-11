@@ -1,5 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Tobi+%F0%9F%91%8B)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=30&width=500&height=70&pause=1000&lines=Hi+I'm+Tobi+%F0%9F%91%8B)
 ---
 
 <h3 align="left">💻 Tech Stack</h3>
