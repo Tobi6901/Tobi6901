@@ -21,7 +21,12 @@
 
 <p align="left"><font size="5"><b>📊 GitHub Stats</b></font></p>
 
-![](https://github-readme-stats.vercel.app/api?username=Tobi6901&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tobi6901&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi6901&layout=compact&theme=radical" />
+</p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tobi6901&theme=radical)
 
 ---
 
