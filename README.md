@@ -31,11 +31,6 @@
 
 ---
 
-<p align="left"><font size="5"><b>🏆 GitHub Trophies</b></font></p>
-
-![](https://github-profile-trophy.vercel.app/?username=Tobi6901&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
 
 <p align="left"><font size="5"><b>✍️ Random Dev Quote</b></font></p>
 
