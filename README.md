@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=30&width=500&height=70&pause=1000&lines=Hi+I'm+Tobi+%F0%9F%91%8B)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&width=600&height=90&lines=Hi+I'm+Tobi+%F0%9F%91%8B)](https://git.io/typing-svg)
 ---
 
 <h3 align="left">💻 Tech Stack</h3>
@@ -14,7 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
   <img src="https://cdn.simpleicons.org/krita/203759" height="40" alt="Krita" />
-  <img src="https://cdn.simpleicons.org/clipstudio/2955A6" height="40" alt="Clip Studio Paint" />
 </p>
 
 ---
