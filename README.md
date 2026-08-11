@@ -21,10 +21,11 @@
 
 <p align="left"><font size="5"><b>📊 GitHub Stats</b></font></p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tobi6901&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi6901&layout=compact&theme=radical" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=tobi6901&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=tobi6901&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tobi6901&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tobi6901&theme=radical)
 
