@@ -27,7 +27,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tobi6901&theme=radical)
 
 ---
 
